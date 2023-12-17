@@ -1,0 +1,15 @@
+BLOCKED-COMMANDS:
+  - //calc
+  - //calculate
+  - //eval
+  - //evaluate
+  - //solve
+  - /pl
+  - /plugins
+  - /?
+  - /about
+  - /version
+  - /bukkit:pl
+  - /bukkit:plugins
+  - /bukkit:?
+  - /ewarp

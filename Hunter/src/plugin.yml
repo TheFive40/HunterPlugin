@@ -1,0 +1,8 @@
+main: com.server.plugin.Main
+name: Hunters
+version: 3.0
+author: TheFive
+depend: [SmartInvs]
+softdepend:
+  - PlaceholderAPI
+  - FeatherBoard
