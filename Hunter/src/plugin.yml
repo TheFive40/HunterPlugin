@@ -3,6 +3,3 @@ name: Hunters
 version: 1.0
 author: TheFive
 depend: [SmartInvs]
-softdepend:
-  - PlaceholderAPI
-  - FeatherBoard
