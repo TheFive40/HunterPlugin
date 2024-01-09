@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hunter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hunter_jar</output-path>
+    <root id="archive" name="Hunter.jar">
+      <element id="module-output" name="Hunter" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
